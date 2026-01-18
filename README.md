@@ -24,4 +24,7 @@ The project demo video is available to watch here: <a href="https://www.google.c
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
+# Contributors
+* Injamul Hoque Ifty (injamul.hoque.ifty@g.bracu.ac.bd)
+* Mahmood Fahad (mahmood.fahad@g.bracu.ac.bd)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
