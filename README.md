@@ -1,6 +1,6 @@
 <a id="readme-top"></a>
 # About The Project
-This project was developed as part of the CSE423 course project at BRAC University.
+This project was developed as part of the CSE423(Computer Graphics) course project at BRAC University.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 # Built With
