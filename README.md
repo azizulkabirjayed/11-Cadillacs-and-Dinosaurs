@@ -46,7 +46,7 @@ The project demo video is available to watch here: <a href="https://www.google.c
 | C | Toggle Cheat Mode |
 | Q | Toggle First-Person/Third-Person Camera |
 | →/ ←/ ↑/ ↓ | Rotate Third-Person Camera Left/ Right/ Up/ Down |
-| R | Restart |
+| R | Restart(after game over) |
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
