@@ -47,30 +47,21 @@
 
 # How To Run
 
-### Prerequisites
-
-- Python 3.x installed on your system
-- `pip` (Python package manager)
-
-### Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/<your-username>/Cadillacs-and-Dinosaurs.git
-   cd Cadillacs-and-Dinosaurs
-   ```
-2. Install the required package:
-   ```bash
-   pip install PyOpenGL PyOpenGL_accelerate
-   ```
-
-### Running the Game
+Make sure you have **Python 3.x** and **pip** installed, then follow these steps:
 
 ```bash
+# 1. Clone the repository
+git clone https://github.com/<your-username>/Cadillacs-and-Dinosaurs.git
+cd Cadillacs-and-Dinosaurs
+
+# 2. Install dependencies
+pip install PyOpenGL PyOpenGL_accelerate
+
+# 3. Run the game
 python project_code.py
 ```
 
-The game window will open and you can start playing immediately using the controls listed below.
+The game window will open and you're good to go — see the [Controls](#controls) section below to start playing.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
