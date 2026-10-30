@@ -72,11 +72,11 @@ The game window will open and you're good to go — see the [Controls](#controls
 
 
 # Sample Visualizations
-![Visualization 1](https://raw.githubusercontent.com/azizulkabirjayed/azizulkabirjayed/b5e988707af39053540f91cc09379e662b0acac2/11/1.gif)
-![Visualization 1](https://raw.githubusercontent.com/azizulkabirjayed/azizulkabirjayed/b5e988707af39053540f91cc09379e662b0acac2/11/2.gif)
-![Visualization 1](https://raw.githubusercontent.com/azizulkabirjayed/azizulkabirjayed/b5e988707af39053540f91cc09379e662b0acac2/11/3.gif)
-![Visualization 1](https://raw.githubusercontent.com/azizulkabirjayed/azizulkabirjayed/b5e988707af39053540f91cc09379e662b0acac2/11/4.gif)
-![Visualization 1](https://raw.githubusercontent.com/azizulkabirjayed/azizulkabirjayed/b5e988707af39053540f91cc09379e662b0acac2/11/5.gif)
-![Visualization 1](https://raw.githubusercontent.com/azizulkabirjayed/azizulkabirjayed/b5e988707af39053540f91cc09379e662b0acac2/11/6.gif)
-![Visualization 1](https://raw.githubusercontent.com/azizulkabirjayed/azizulkabirjayed/b5e988707af39053540f91cc09379e662b0acac2/11/8.gif)
+![Visualization 1](./Images/1.gif)
+![Visualization 2](./Images/2.gif)
+![Visualization 3](./Images/3.gif)
+![Visualization 4](./Images/4.gif)
+![Visualization 5](./Images/5.gif)
+![Visualization 6](./Images/6.gif)
+![Visualization 7](./Images/8.gif)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
